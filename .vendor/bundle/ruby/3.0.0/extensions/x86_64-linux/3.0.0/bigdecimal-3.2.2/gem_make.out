@@ -1,5 +1,5 @@
 current directory: /home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.2.2/ext/bigdecimal
-/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250623-2483-ujdbxa.rb extconf.rb
+/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250623-2672-83kw8t.rb extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
 checking for __builtin_clzll()... yes
@@ -151,5 +151,5 @@ Makefile:258: warning: overriding recipe for target '.m.S'
 Makefile:258: warning: ignoring old recipe for target '.m.S'
 Makefile:262: warning: overriding recipe for target 'bigdecimal.so'
 Makefile:262: warning: ignoring old recipe for target 'bigdecimal.so'
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250623-2483-3f4e3g
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20250623-2672-czyyt7
 make[1]: Leaving directory '/home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/bigdecimal-3.2.2/ext/bigdecimal'

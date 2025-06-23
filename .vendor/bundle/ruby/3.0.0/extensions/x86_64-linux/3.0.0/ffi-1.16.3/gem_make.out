@@ -1,5 +1,5 @@
 current directory: /home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/ffi-1.16.3/ext/ffi_c
-/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250623-2483-1arrkq.rb extconf.rb
+/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250623-2672-lthdmc.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... yes
 checking for ffi_prep_cif_var()... yes
 checking for ffi_raw_call()... yes
@@ -154,5 +154,5 @@ Makefile:257: warning: overriding recipe for target '.m.S'
 Makefile:257: warning: ignoring old recipe for target '.m.S'
 Makefile:261: warning: overriding recipe for target 'ffi_c.so'
 Makefile:261: warning: ignoring old recipe for target 'ffi_c.so'
-/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20250623-2483-n94ecq
+/usr/bin/install -c -m 0755 ffi_c.so ./.gem.20250623-2672-57q9n5
 make[1]: Leaving directory '/home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/ffi-1.16.3/ext/ffi_c'
