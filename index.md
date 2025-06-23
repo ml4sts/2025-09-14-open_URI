@@ -9,7 +9,7 @@ country: "United States"      # lowercase two-letter ISO country code such as "f
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "20"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Sep 14 - 20, Oct 14-20, Nov 14-20"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Sep 14 - 20, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "11:00 am - 3:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-09-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-11-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
