@@ -90,9 +90,10 @@ jobs:
       - name: Render the markdown and confirm that the site can be built
         run: make site
 
+      #  removed condition && steps.check-rmd.outputs.count != 0
       - name: Checkout github pages
-        if: ${{ github.event_name == 'push' && steps.check-rmd.outputs.count != 0 && github.ref != 'refs/heads/gh-pages'}}
-        uses: actions/checkout@master
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
+        uses: actions/checkout@v4
         with:
           ref: gh-pages
           path: gh-pages
@@ -103,8 +104,9 @@ jobs:
         run: make workshop-check
         if: always()
 
+      #  removed condition && steps.check-rmd.outputs.count != 0
       - name: Commit and Push
-        if: ${{ github.event_name == 'push' && steps.check-rmd.outputs.count != 0 && github.ref != 'refs/heads/gh-pages'}}
+        if: ${{ github.event_name == 'push' && github.ref != 'refs/heads/gh-pages'}}
         run: |
           # clean up gh-pages
           cd gh-pages
