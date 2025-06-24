@@ -1,5 +1,5 @@
 current directory: /home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250623-2672-2u9a9.rb extconf.rb
+/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250624-2661-iqenu8.rb extconf.rb
 creating Makefile
 
 current directory: /home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -134,5 +134,5 @@ Makefile:257: warning: overriding recipe for target '.m.S'
 Makefile:257: warning: ignoring old recipe for target '.m.S'
 Makefile:261: warning: overriding recipe for target 'ruby_http_parser.so'
 Makefile:261: warning: ignoring old recipe for target 'ruby_http_parser.so'
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250623-2672-z3707l
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20250624-2661-y0vqfn
 make[1]: Leaving directory '/home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser'

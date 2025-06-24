@@ -1,5 +1,5 @@
 current directory: /home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/json-2.12.2/ext/json/ext/parser
-/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250623-2672-peajhi.rb extconf.rb
+/opt/hostedtoolcache/Ruby/3.0.7/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/3.0.7/x64/lib/ruby/3.0.0 -r ./siteconf20250624-2661-7sk12e.rb extconf.rb
 checking for rb_enc_interned_str() in ruby.h... yes
 checking for rb_hash_new_capa() in ruby.h... no
 checking for rb_hash_bulk_insert() in ruby.h... yes
@@ -130,5 +130,5 @@ Makefile:257: warning: overriding recipe for target '.m.S'
 Makefile:257: warning: ignoring old recipe for target '.m.S'
 Makefile:261: warning: overriding recipe for target 'parser.so'
 Makefile:261: warning: ignoring old recipe for target 'parser.so'
-/usr/bin/install -c -m 0755 parser.so ./.gem.20250623-2672-5g5b0r/json/ext
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250624-2661-e0q2hn/json/ext
 make[1]: Leaving directory '/home/runner/work/2025-09-14-open_URI/2025-09-14-open_URI/.vendor/bundle/ruby/3.0.0/gems/json-2.12.2/ext/json/ext/parser'
